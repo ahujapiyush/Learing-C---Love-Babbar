@@ -1,0 +1,12 @@
+ settings.json
+ "code-runner.executorMap": {
+    "cpp": "clear && cd $dir && echo 'Your C++ Program is running :' && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+ }
+# Lecture 2
+
+- Program 1 - Hello World Program
+
+# Lecture 3
+
+- Program 2 - Print numbers from 1 to n
+- Program 3 - Sum of numbers from 1 to n
