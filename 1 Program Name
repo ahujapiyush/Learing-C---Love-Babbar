@@ -1,0 +1,156 @@
+settings.json
+"code-runner.executorMap": {
+"cpp": "clear && cd $dir && echo 'Your C++ Program is running :' && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+}
+
+//things to learn -
+
+Find duplicate elementsin array and return in array
+
+# Lecture 2
+
+- Program 1 - Hello World Program
+
+# Lecture 3
+
+- Program 2 - Print numbers from 1 to n
+- Program 3 - Sum of numbers from 1 to n
+- Program 4 - Check if Number is Prime
+- Program 5 - make star pattern -
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# Lecture 4 https://youtu.be/dr-pLeJBr38?si=XT6n1yNoMyEqeCe4
+
+- pattern Program 6 -
+
+1234
+1234
+1234
+1234
+
+- patter Program 7 -
+
+for n = 4
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+
+- patter Program 8 -
+  for n = 4
+
+* ## \*\*
+  ---
+
+- patter Program 9 -
+
+for n = 4
+
+1
+2 3
+3 4 5
+4 5 6
+
+- patter Program 10 -
+
+for n = 4
+
+1
+2 1
+3 2 1
+4 3 2 1
+
+- patter Program 11 -
+
+for n = 4
+A A A A
+B B B B
+C C C C
+D D D D
+
+- patter Program 12 -
+
+1 2 3 4 5 5 4 3 2 1
+1 2 3 4 \* _ 4 3 2 1
+1 2 3 _ \* \* _ 3 2 1
+1 2 _ \* \* \* \* _ 2 1
+1 _ \* \* \* \* \* \* \* 1
+
+- program - https://leetcode.com/problems/reverse-integer/submissions/788636060/
+
+- program - https://leetcode.com/problems/power-of-two/submissions/1263626783
+
+- program 13 - power of 2 variable using c++ functions
+
+- program 14 - is Prime Number using function in C++
+
+- program 15 - get minimum and maximum from an array using c++
+
+- program 16 - program to get sum of all elements in an array
+
+- program 17 - swap alternate number of an array
+
+- program 18 - find duplicate number of an array
+
+- program 19 - find intersection elements of an array
+
+- program 20 - swap alternate elements of an array
+
+- program 21 - find element using binary search
+
+- Program 22 - selection sort
+
+- Program 23 - Bubble sort
+
+- Program 24 - STL ARRAY
+
+- Program 25 - STL Vector
+
+- Program 26 - STL DEQUE
+
+- Program 27 - STL Stack
+
+- Program 28 - STL Queue
+
+- Program 29 - STL Priority Queue (Max Heap means max element first);
+
+- Program 30 -- STL Priority Queue (Min Heap means min element first);
+
+- Program 31 - STL SET Ascending Order
+
+- Program 32 - STL SET Descending Order
+
+- Program 33 - STL SET Functions
+
+- Program 34 - Inserting and Removing Elements of a Priority Queue
+
+- Program 35 - To Access the Top Element of the Priority Queue
+
+- Program 36 - To Check whether the Priority Queue is Empty or Not
+
+- Program 37 - To Get/Check the Size of the Priority Queue
+
+- Program 38 - To Swap Contents of a Priority Queue with Another of Similar Type
+
+- Program 39 - To emplace a new element into the priority queue container
+
+- Program 40 -To represent the type of object stored as an element in a priority_queue
+
+- Program 41 - STL Map begin() and end() Function
+
+- Program 42 - STL MAP size() function
+
+- Program 43 - STL MAP Implementing Map
+
+- Program 44 - Implementing Map of Integers
+
+- Program 45 - 49 - Algorithm Library
